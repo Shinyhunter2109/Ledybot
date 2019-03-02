@@ -14,7 +14,7 @@ To get this to run you need a hacked 3DS with CFW. You need NTR (mode 3 version 
 1. Boot your 3DS
 2. Start Boot NTR Selector
 3. Start Input Redicretion
-4. Start Pokemon, connect to the Festival Plaza to get online
+4. Start Pokemon, connect to the Festival Plaza or the PSS Menu to get online
 5. Open the GTS until you see the "Seek Pokemon / Deposit Pokemon" screen
 6. Start Ledybot, fill in your 3DS ip address
 7. Fill in all necessary details (Deposited Pokemon, Giveaway Details)
