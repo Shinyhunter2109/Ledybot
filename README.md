@@ -1,12 +1,11 @@
 # Ledybot
 
 ## About
-Ledybot is a GTS giveaway bot for pokemon sun and moon. Check out LedySync to go along with it, it's really cool: https://github.com/olliz0r/LedySync
-
-If you are rich and like what you see, feel free to throw me a donation at https://www.paypal.me/olliz0r !
+Ledybot is a GTS giveaway bot for Omega Ruby and Alpha Sapphire and pokemon sun and moon. Check out LedySync to go along with it, it's really cool: https://github.com/olliz0r/LedySync
 
 ## Credits
 Huge thanks to EzPz/imaboy321 for rewriting, enhancing and maintaining this project for so long!
+Also a Huge Shoutout to Mitsukii for setting up the Gen 6 Compatibility.
 
 ## Usage
 To get this to run you need a hacked 3DS with CFW. You need NTR (mode 3 version for o3ds) as well as Input Redirection (also mode 3 for o3ds)
@@ -22,8 +21,6 @@ To get this to run you need a hacked 3DS with CFW. You need NTR (mode 3 version 
 9. Connect!
 10. Start the bot!
 
-(For a slightly outdated, yet more up to date than the above guide check out: https://www.se7ensins.com/forums/threads/how-to-setup-a-pokemon-sun-and-moon-gts-giveaway-bot.1616037/ , thanks to ItsDeidara for letting me know!)
-
 ## Options
 ### GTS Tab
 #### Deposited Pokemon:
@@ -35,7 +32,7 @@ To get this to run you need a hacked 3DS with CFW. You need NTR (mode 3 version 
 #### Banned FCs
 - You can add a list of FCs that should never be traded here
 #### Reddit
-- This feature combined with the Subreddit Textbox in the Settings tab can be used to only trade people that posted in a certain subreddits post and have their FC set up in their flair, check out EzPzs Guide https://www.youtube.com/watch?v=XrBEZ7qVaro for more information!
+- This feature combined with the Subreddit Textbox in the Settings tab can be used to only trade people that posted in a certain subreddits post and have their FC set up in their flair, check out EzPzs Guide https://www.youtube.com/watch?v=XrBEZ7qVaro for more information! [Not sure if this feature works for Gen 6 but for Gen 7 it should]
 #### Trade List
 - This ListView gives a summary of all people the bot has traded, including a timestamp, Trainer name and FC, Country, SubCountry, Pokemon recieved, Pokemon sent, GTS page and GTS listindex on this page they were on.
 - You can Export/Import or Clear this list if you want to keep track of your trades outside of Ledybot itself.
