@@ -5,7 +5,7 @@ Ledybot is a GTS giveaway bot for Omega Ruby and Alpha Sapphire and pokemon sun 
 
 ## Credits
 Huge thanks to EzPz/imaboy321 for rewriting, enhancing and maintaining this project for so long!
-Also a Huge Shoutout to Mitsukii for setting up the Gen 6 Compatibility.
+Also a Huge Shoutout to Mitsukii/Bappsack for setting up the Gen 6 Compatibility.
 
 ## Usage
 To get this to run you need a hacked 3DS with CFW. You need NTR (mode 3 version for o3ds) as well as Input Redirection (also mode 3 for o3ds)
